@@ -1,0 +1,16 @@
+
+html,
+body {
+    font-size: 62.5%;
+}
+
+.container {
+    width: 120rem;
+    margin: 0 auto;
+    // border: 1px solid #000;
+    
+}
+
+@import "header.scss";
+@import "footer.scss";
+
